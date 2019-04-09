@@ -1,0 +1,25 @@
+{
+  "name": "canvas-2d-renderer",
+  "version": "1.0.0",
+  "description": "Renders a set of 2D array data to a set of canvases",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/canvas-2d-renderer.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "mnist",
+    "dataset",
+    "loader"
+  ],
+  "author": "Matt Way",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/canvas-2d-renderer/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/canvas-2d-renderer#readme"
+}
