@@ -1,6 +1,6 @@
 {
   "name": "canvas-2d-renderer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Renders a set of 2D array data to a set of canvases",
   "main": "code.js",
   "scripts": {
