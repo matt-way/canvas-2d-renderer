@@ -1,6 +1,6 @@
 {
   "name": "canvas-2d-renderer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Renders a set of 2D array data to a set of canvases",
   "main": "code.js",
   "scripts": {
@@ -14,6 +14,7 @@
     "syntropy-studio-block",
     "canvas",
     "renderer",
+    "array",
     "2d"
   ],
   "author": "Matt Way",
