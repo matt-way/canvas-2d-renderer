@@ -12,9 +12,9 @@
   },
   "keywords": [
     "syntropy-studio-block",
-    "mnist",
-    "dataset",
-    "loader"
+    "canvas",
+    "renderer",
+    "2d"
   ],
   "author": "Matt Way",
   "license": "MIT",
